@@ -28,7 +28,7 @@
 
 8. Wie genau wird eine Domainklasse in einer Datenbank repräsentiert?
 
-9. [Was ist ein Groovy Bean?}[http://mrhaki.blogspot.de/2009/08/groovy-goodness-groovybeans-simpler.html]
+9. [Was ist ein Groovy Bean?](http://mrhaki.blogspot.de/2009/08/groovy-goodness-groovybeans-simpler.html)
 
 10. [Zähle mindestens 4 Integritätsregeln aus der Domänenklasse auf](https://docs.grails.org/latest/ref/Constraints/Usage.html)
 
