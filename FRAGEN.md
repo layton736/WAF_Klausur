@@ -2,6 +2,8 @@
 
 ## Webarchitekturen
 
+1. Ist Groovy eine Compilierte oder eine Interpretierte Sprache?
+
 ## Groovy
 
 ## Grails-Framework
