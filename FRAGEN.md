@@ -48,6 +48,9 @@
 
 18. Zeige einen Codeabschnitt, wie man einen bestimmten Controller loggt.
 
+19. [Was ist Content Negotiation?](https://de.wikipedia.org/wiki/Content_Negotiation)
+
+
 ### TO BE CONTINUE
 
 
