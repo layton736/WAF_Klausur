@@ -1,4 +1,4 @@
-# Fragen, welche zum abprüfen des WAF Stoffes helfen sollen.
+# Hier sind Fragen aufgelistet, mit dessen Hilfe man den Stoff von WAF testen kann.
 
 ## Webarchitekturen
 
@@ -9,3 +9,4 @@
 ## Java-Webtechnologien
 
 ## Java Server Faces
+
