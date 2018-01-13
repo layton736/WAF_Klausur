@@ -22,7 +22,7 @@
 
 5. [Was ist der Unterschied zwischen dem statischen und dem Dynamischen Scaffolding?](http://www.careerride.com/view/what-is-the-difference-between-static-and-dynamic-scaffolding-ruby-on-rails-2430.aspx)
 
-6. [Erkläre das MVC Pattern] (https://glossar.hs-augsburg.de/Model-View-Controller-Paradigma)
+6. [Erkläre das MVC Pattern](https://glossar.hs-augsburg.de/Model-View-Controller-Paradigma)
 
 7. Mit Welcher Technologie werden die Domänenklassen Persistiert?
 
