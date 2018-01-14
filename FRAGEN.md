@@ -50,6 +50,9 @@
 
 19. [Was ist Content Negotiation?](https://de.wikipedia.org/wiki/Content_Negotiation)
 
+20. [Was ist eine Rendernde Instanz?](https://docs.grails.org/latest/ref/Controllers/render.html)
+
+21. 
 
 ### TO BE CONTINUE
 
