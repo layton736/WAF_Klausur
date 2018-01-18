@@ -66,6 +66,16 @@
 
 26. Wie kann man eine Liste Sortien, welches aus Strings besteht?
 
+27.  Was sind Ranges?
+
+28. Was ist eine Groovy Bean?
+
+29. Wie ist der ABlauf bei einem Attributzugriff?
+
+30. 
+
+
+
 ### TO BE CONTINUE
 
 ## Grails-Framework
