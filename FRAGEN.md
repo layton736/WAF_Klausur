@@ -2,11 +2,28 @@
 
 ## Webarchitekturen
 
-[Nothing Else Matter](https://www.youtube.com/watch?v=x7bIbVlIqEc)
+
+1. Nenne alle Schichten des 4 Tier Modells und erkläre sie.
+
+2. Auf welche Schicht im 4 Tier Modell läuft Groovy and Grails?
+
+3. Was ist ein Servlet?
+
+4. Was ist ein Servlet Container? 
+
+5. [Was versteht man unter Dynamische Interaktive Webseiten mit AJAX?](https://molily.de/js/ajax.html)
 
 ## Groovy
 
-1. Ist Groovy eine Compilierte oder eine Interpretierte Sprache?
+1. Nenne einige Anforderungen an Sprachen für Dynamische Webseiten.
+
+2. Ist Groovy eine Compilierte oder eine Interpretierte Sprache?
+
+3. Welche vereinfachungen bietet Groovy gegenüber Java?
+
+4. In welchem Fall muss in Groovy ein Semikolon angegeben werden?
+
+5. Wann muss in Groovy das ''def'' angegeben werden?
 
 ### TO BE CONTINUE
 
