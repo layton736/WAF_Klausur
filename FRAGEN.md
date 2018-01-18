@@ -2,7 +2,6 @@
 
 ## Webarchitekturen
 
-
 1. Nenne alle Schichten des 4 Tier Modells und erkläre sie.
 
 2. Auf welche Schicht im 4 Tier Modell läuft Groovy and Grails?
@@ -24,6 +23,48 @@
 4. In welchem Fall muss in Groovy ein Semikolon angegeben werden?
 
 5. Wann muss in Groovy das ''def'' angegeben werden?
+
+6. Woraus ergibt sich der Datentyp einer Varibale, wenn nicht explitiz angegeben?
+
+7. Was ist der Unterschied zwischen den  Exception Handling in Java und Groovy?
+
+8. Welche Funktion hat in Groovy das "as" Schlüsselwort?
+
+9. Was sind benannte Parameter und wie werden sie realisiert?
+
+10. Welchen Scope haben die Methoden/Funktionen, wenn nichts anderes angegeben?
+
+11. Was ist der Vorteil, wenn auch Methoden/Funktionen Objekte sind?
+
+12. Was ist eine Closure?
+
+13. Wie gibt man Closures Parameter?
+
+14. Wie wandelt man eine Methode/Funktion in eine Closure um?
+
+15. Was ist eine Multimethoden-Closure?
+
+16. Welche Möglichkeiten gibt es, eine Closure an eine Methode/Funktion zu übergeben?
+
+17. Mit welcher Funktion kann man in einer Collection Filtern?
+
+18. Skiziere ein Beispiel für ein Autoboxing in Groovy.
+
+19. Welche unterschiede gibt es bei den Vergleichsoperationen?
+
+20. Was ist der unterschied zwischen den as-Operator und einem Typecast?
+
+21. Was ist das Problem mit den Character Typ in Groovy?
+
+22. Was ist ein GString?
+
+23. Zeige die Stringoperatoren.
+
+24. Füge in einem StringBuffer ein Zeichen hinzu.
+
+25. Füge einer Collection in einer Zeile mehrere Werte hinzu.
+
+26. Wie kann man eine Liste Sortien, welches aus Strings besteht?
 
 ### TO BE CONTINUE
 
