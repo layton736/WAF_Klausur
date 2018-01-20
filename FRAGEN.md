@@ -66,17 +66,52 @@
 
 26. Wie kann man eine Liste Sortien, welches aus Strings besteht?
 
-27.  Was sind Ranges?
+27. Was sind Ranges?
 
 28. Was ist eine Groovy Bean?
 
-29. Wie ist der ABlauf bei einem Attributzugriff?
+29. Wie ist der Ablauf bei einem Attributzugriff?
 
-30. 
+30. Wieso ist es möglich, auf private Attribute zuzugreifen?
 
+31. Wie kann man in Groovy Derefernezieren?
 
+32. Nenne 3 unterschiedliche Arten auf ein Attribute eines Objektes zuzugreifen.
 
-### TO BE CONTINUE
+33. Was ist ein Expando?
+
+34. Erkläre Regex anhand eines Beispiels.
+
+35. Was sind Capture Groups?
+
+36. Welche Strategien ieren gibt mit den Capture Groups?
+
+37. Für was eignet sich der Find operator besonders gut? 
+
+38. Was ist der Pattern-Operator?
+
+39.  Was ist die Metaprogrammierung?
+
+40. Nenne 3 Varianten um die Metaprogrammierung zu realisieren.
+
+41. Was ist Reflection? Vor- und Nachteile?
+
+42. Was versteht man unter Echte Metraprogrammierung?
+
+43. Was bewirkt ExpandoMetaClass.enableGlobally()?
+
+44. Was unterscheidet beim Hinzufügen eines neuen Kontruktors bei der Metaprogrammierung von dem Bereits bestehenden Kontruktor?
+
+45. Was versteht man unter Intercept?
+
+46. Wann wird die Methode methodMissing aufgerufen?
+
+47. Was ist das Intercept-Cache-Invoke Pattern?
+
+48. Was versteht man unter Aspektorientierte Programmierung?
+
+49. Was ist die invokeMethod() Methode?
+
 
 ## Grails-Framework
 
