@@ -108,7 +108,7 @@
 
 47. Was ist das Intercept-Cache-Invoke Pattern?
 
-48. Was versteht man unter Aspektorientierte Programmierung?
+48. [Was versteht man unter Aspektorientierte Programmierung?](https://blog.mayflower.de/3413-Grundlagen-aspektorientierter-Programmierung.html)
 
 49. Was ist die invokeMethod() Methode?
 
