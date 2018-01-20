@@ -155,13 +155,23 @@
 
 20. [Was ist eine Rendernde Instanz?](https://docs.grails.org/latest/ref/Controllers/render.html)
 
-21. 
+21. Was ist ein Interzeptor?
 
-### TO BE CONTINUE
+22. Was bewirken die Methoden befor,afeter und afterView?
 
+23. Was bewirkt die Methode redirect?
 
-## Java-Webtechnologien
+24. Was ist ein Un/bedingter Interzeptor?
 
-## Java Server Faces
+25. Wofür steht GORM?
 
+26. [Was ist das optimischtes Sperren?](http://datenbanken-verstehen.de/lexikon/optimistische-sperrverfahren/)
+
+27. [Was ist Lazy Loading?](https://de.wikipedia.org/wiki/Lazy_Loading)
+
+28. Wann kann es bei einer angabe von einer Kardinalität bei Domänenklassen zu einem Henne-Ei problem kommen?
+
+29. Wie kann man das m:n Problem lösen?
+
+30. Nenne die 3 Abbildungsvarianten der POGOs in einer Datenbank.
 
